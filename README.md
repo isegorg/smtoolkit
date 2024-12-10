@@ -1,11 +1,11 @@
-# smtoolkit
-Scenario Modelling Toolkit is a modelling environment that empowers you to make software systems using scenarios as source of truth for encoded knowledge instead of traditional programming languages.
+# SmToolkit
 
+Scenario Modelling Toolkit is a modelling environment that empowers you to make software systems using scenarios as source of truth for encoded knowledge instead of traditional programming languages.
 ## Installation
 
 ```st
 Metacello new
-	repository: 'github://Intelligent-Software-Engineering-Group/smtoolkit:main/src';
+	repository: 'github://isegorg/smtoolkit:main/src';
 	baseline: 'SmToolkit';
 	load
 ```
