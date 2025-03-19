@@ -6975,6 +6975,43 @@
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-03-18T15:26:07.047549+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-03-18T15:26:07.047549+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "h9IfbADtDQCd+a51CdxCgw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : ""
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
 								"items" : [
 									{
 										"__type" : "textSnippet",
@@ -7038,7 +7075,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-03-17T20:21:56.664809+01:00"
+												"dateAndTimeString" : "2025-03-17T20:22:06.678291+01:00"
 											}
 										},
 										"uid" : {
@@ -7048,7 +7085,43 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "La fase preliminar será describir a a"
+										"string" : "La fase preliminar será describir a alto nivel la interfaz gráfica de usuario."
+									},
+									{
+										"__type" : "pictureSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-03-18T15:25:20.272447+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-03-18T15:25:40.886736+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "bhpWaQDtDQCd8mlbCdxCgw=="
+										},
+										"url" : "attachments/7rr6skp7yaq1161ekd07u2it2/Fig. 3.1. A central panel controlling the bakery’s ovens.png",
+										"caption" : "",
+										"previewHeight" : 346.9892578125001
 									},
 									{
 										"__type" : "textSnippet",

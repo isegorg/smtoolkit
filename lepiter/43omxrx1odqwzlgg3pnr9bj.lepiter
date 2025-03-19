@@ -7051,6 +7051,42 @@
 										"string" : "La fase preliminar será describir a alto nivel la interfaz gráfica de usuario."
 									},
 									{
+										"__type" : "pictureSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-03-18T15:25:20.272447+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-03-18T15:25:40.886736+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "bhpWaQDtDQCd8mlbCdxCgw=="
+										},
+										"url" : "attachments/7rr6skp7yaq1161ekd07u2it2/Fig. 3.1. A central panel controlling the bakery’s ovens.png",
+										"caption" : "",
+										"previewHeight" : 346.9892578125001
+									},
+									{
 										"__type" : "textSnippet",
 										"children" : {
 											"__type" : "snippets",
@@ -7108,7 +7144,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-03-17T20:18:16.875078+01:00"
+									"dateAndTimeString" : "2025-03-18T15:26:25.455573+01:00"
 								}
 							},
 							"uid" : {
@@ -7118,7 +7154,44 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "##3.1 El sistema de muestra"
+							"string" : "##3.1. El sistema de muestra"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-03-18T15:26:07.047549+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-03-18T15:26:21.661335+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "h9IfbADtDQCd+a51CdxCgw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "##3.2. Playing In"
 						}
 					]
 				},
